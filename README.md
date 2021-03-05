@@ -12,5 +12,4 @@ Nazywam się Mateusz W. Posiadam licencjat Państwowej Wyższej Szkoły Zawodowe
 
 # Umiejętności techniczne
 
-Podstawowa znajomość:
-- Jira Software
+
