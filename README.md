@@ -1,4 +1,4 @@
-# Portfolio
+# Portfolio PL/ENG
 
 English version below
 
@@ -19,7 +19,6 @@ Nazywam się Mateusz W. Posiadam licencjat Państwowej Wyższej Szkoły Zawodowe
 - Testowanie oprogramowania
 - Tworzenie przypadków testowych
 - Tworzenie raportów z testowania
-- Znajdowanie selektorów CSS oraz xPath
 - Podstawowa znajomość SQL oraz Selenium Webdriver
 
 ## Kursy
@@ -31,4 +30,31 @@ uTest Academy Course - zestaw kursów mający na celu służyć za pomoc w nauce
 ## Książki
 
 - Radosław Smilgin "Zawód Tester"
+- Patryk Polewiak "Tworzyć Gry"
 
+## Obserwowane grupy na facebooku
+
+- [LubQA - Lublin Software Quality Assurance and Testing Group](https://www.facebook.com/LubQA/)
+- [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania/)
+- [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/)
+- [ISTQB - egzaminy, pytania, testy](https://www.facebook.com/groups/194288250951242/)
+- [Gildia Testerów](https://www.facebook.com/GildiaTesterow)
+
+## Webinary
+
+Sekcja ta będzie uzupełniana o webinary dokształcające w których brałem udział.
+
+- Warsztat: Automatyzacja Testów (4.03.2021)
+- Bazy danych w pracy testera (25.02.2021)
+
+## Moje przypadki testowe
+
+Sekcja ta będzie regularnie uzupełniana o nowe przypadki testowe.
+
+## Moje raporty z testów
+
+Sekcja ta będzie regularnie uzupełniana o nowe raporty z testów.
+
+## Moje testy automatyzujące
+
+Sekcja ta będzie regularnie uzupełniana o nowe testy automatyzujące.
