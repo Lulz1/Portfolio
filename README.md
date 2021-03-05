@@ -25,6 +25,7 @@ Nazywam się Mateusz W. Posiadam licencjat Państwowej Wyższej Szkoły Zawodowe
 ## Kursy
 
 Software Development Academy - kurs "Tester Oprogramowania" (116h), ukończony z certyfikacją
+
 uTest Academy Course - zestaw kursów mający na celu służyć za pomoc w nauce dla nowych testerów | W TRAKCIE REALIZACJI - 11/28 lekcji ukończono
 
 ## Książki
